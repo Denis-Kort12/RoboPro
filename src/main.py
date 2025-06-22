@@ -48,6 +48,5 @@ def create_gui():
 
     return root
 
-# Инициализация
 if __name__ == "__main__":
     create_gui().mainloop()
