@@ -1,11 +1,11 @@
 # RoboPro
 
 #### Создайте виртуальное окружение (или используйте глобальное):
-python -m venv venv
-source venv/bin/activate
+    - python -m venv venv
+    - source venv/bin/activate
 
 #### Установите зависимости:
-pip install -r requirements.txt
+    - pip install -r requirements.txt
 
 #### Запустите:
-python src/main.py
+    - python src/main.py
